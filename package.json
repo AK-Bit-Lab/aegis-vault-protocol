@@ -1,13 +1,26 @@
 {
   "name": "aegis-vault-protocol",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Protocol layer for AegisVault - Core blockchain interactions",
   "main": "index.js",
   "types": "index.d.ts",
-  "scripts": { "test": "echo \"Error: no test specified\" && exit 0" },
-  "keywords": ["stacks", "vault", "protocol", "blockchain", "aegis"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "stacks",
+    "vault",
+    "protocol",
+    "blockchain",
+    "aegis"
+  ],
   "author": "AdekunleBamz",
   "license": "MIT",
-  "repository": { "type": "git", "url": "https://github.com/AdekunleBamz/aegis-vault-protocol.git" },
-  "publishConfig": { "access": "public" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdekunleBamz/aegis-vault-protocol.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
