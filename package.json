@@ -1,6 +1,6 @@
 {
   "name": "aegis-vault-protocol",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Protocol layer for AegisVault - Core blockchain interactions",
   "main": "index.js",
   "types": "index.d.ts",
@@ -18,8 +18,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdekunleBamz/aegis-vault-protocol.git"
+    "url": "git+https://github.com/AdekunleBamz/aegis-vault.git"
   },
+  "bugs": {
+    "url": "https://github.com/AdekunleBamz/aegis-vault/issues"
+  },
+  "homepage": "https://github.com/AdekunleBamz/aegis-vault#readme",
   "publishConfig": {
     "access": "public"
   }
